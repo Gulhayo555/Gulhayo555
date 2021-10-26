@@ -1,0 +1,396 @@
+@media(max-width:1298px){
+    .cons_out{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+      gap: 30px;
+    }
+    .cons_square{
+        width: 34%;
+    }
+    .info_q{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .faq_info{
+        width: 34%;
+    }  
+}
+@media(max-width:1209px){
+.right{
+    display: flex;
+    justify-content: center;
+}
+}
+@media(max-width:1209px){
+    .branches_info{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        /* height: 400px; */
+        margin-top: 50px;
+    } 
+  
+    .branches{
+        width: 51%;
+        height: 100%;
+    }
+    .face_a{
+        /* transform: translateY(30%); */
+    }
+}
+@media(max-width: 1159px){
+    .main{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      flex-wrap: wrap;
+      gap: 30px;
+    }
+    .m_info{
+        width:34%;
+    }
+    .clientage{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .customer{
+        width: 55%;
+    }
+   
+}
+@media(max-width: 1120px){}
+
+@media(max-width: 1117px){}
+ 
+@media(max-width: 1005px){
+   .branches_info{
+       margin-right: 0;
+       margin-bottom: 0;
+   }
+
+}
+
+@media(max-width: 992px){
+    .right{
+        display: none;
+    }
+    .navbar__left {
+        width: 100%;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
+@media(max-width: 992px){
+ 
+    .cons_h{
+        margin-left: 50px;
+    }
+    .consulting_p{
+        margin-left: 50px;
+    }
+    .footer>div{
+        width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+      }
+      .m_foo{
+  width: 33%;    
+      }
+      .footer{
+          height: 100%;
+      }
+}
+@media(max-width: 998px){
+    .face_a{
+       width: 100%;
+    }
+  .main{
+      transform: translateY(-40%);
+  }
+  
+   .faq_info{
+    
+    width: 37%;
+}
+@media(max-width: 992px){
+    .price_face{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .price_menu{
+        width: 37%;
+    }
+}
+}
+@media(max-width: 903px){
+
+.customer{
+    width: 50%;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+}
+.reg_img{
+    width: 100%;
+}
+.client_info{
+  padding: 10px 10px;
+}
+}
+@media(max-width: 836px){
+.cons_a{
+   margin-left: 20px;
+   margin-bottom: 20px;
+}
+.price_menu{
+    width: 50%;
+} 
+
+
+.consulting_footer>div{
+    display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}.cons_a{
+    margin-top: 0;
+}
+.cons_h{
+    padding-top: 0;
+}
+}
+
+@media(max-width: 775px){
+    .cons_out{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 30px;
+    }    
+    .cons_square{
+        width: 55%;
+    } 
+    .square {
+      width: 100%;  
+    } 
+ 
+}
+@media(max-width: 775px){
+   
+    .main{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      flex-wrap: wrap;
+      gap: 30px;
+      transform: translateY(-20%)
+    }
+    .m_info{
+        width:60%;
+    } 
+    .menu_1{
+        width: 80%;
+    }
+    .menu_3{
+        width: 80%; 
+    }
+    .adminstration>div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .admin_p{
+        margin-left: 0;
+    }
+    .admin_icon{
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+}
+@media(max-width: 769px){
+    .branches{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+ 
+ .b_p{
+     padding-top: 30px;
+ }
+}
+
+@media(max-width: 752px){
+    .branches_info{
+        padding-bottom: 10px;
+    }
+  .price_face{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+  } 
+  
+  .cons_h{
+      margin-top: 10px;
+  }
+ 
+  .face_a{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      transform: none;
+  }
+  .book_a{
+      margin-top: 5px;
+  }
+}
+
+@media(max-width: 652px){
+    .choice{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .get_1{
+        width: 50%;
+      margin-left: 10px;
+    }
+    .get_2{
+        margin-top: 20px;
+        width:50%;
+    }
+    .title{
+        margin-top: 70px;
+        text-align: center;
+    }
+    .title_h{
+      
+       text-align: center;
+    }
+  
+    .cons_f_info{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+  .faq_info{
+      width: 45%;
+  }
+   .price_menu{
+       width: 80%;
+   }
+.m_info{
+    width: 80%;
+}
+}
+@media(max-width: 579px){
+    .menu_1{
+        width: 80%;
+    }
+}
+
+@media(max-width: 544px){
+    .faq_info{
+        width: 80%;
+    }
+}
+@media(max-width: 516px){
+   .title{
+       font-size: 45px;
+   } 
+   .face_a{
+       display: flex;
+       justify-content: center;
+       flex-wrap: wrap;
+   }
+   .img_appo{
+       width: 100%;
+   }
+}
+@media(max-width: 506px){
+    .footer>div{
+        width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+      }
+      .m_foo{
+  width: 40%;  
+  justify-content: center;  
+      }
+}
+@media(max-width: 490px){
+.m_info{
+    width: 90%;
+}
+.main{
+    display: flex;justify-content: center;
+    margin: 0;
+}
+.customer{
+    width:90%;
+}
+.cons_square{
+    width: 60%;
+}
+    
+}
+@media(max-width: 468px){
+.cons_square{
+    width: 80%;
+}
+.menu_3{
+    width: 100%;
+}
+.menu_1{
+    width: 100%;
+}
+}
+@media(max-width: 408px){
+ .c_pp{
+     padding-left: 6px;
+     padding-right: 6px;
+ }  
+ .title_c{
+   
+ } 
+}
+@media(max-width: 408px){
+    .m_foo{
+      width: 100%;
+      text-align: center;  
+    }
+ 
+}
+@media(max-width: 390px){
+.price_menu{
+    width: 100%;
+} 
+.main{
+   transform: translateY(0);
+}  
+}
+
+@media(max-width: 320px){
+  .admin_p{
+      text-align: center;
+  } 
+
+  
+}
+@media(max-width: 3px){
